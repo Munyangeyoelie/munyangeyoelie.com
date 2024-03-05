@@ -1,4 +1,4 @@
-My personal website , now powered by Next.js. View the live demo: [munyangeyoelie.com.vercel.app](https://urfolio.vercel.app)
+My personal, now powered by Next.js. View the live demo: [urfolio.vercel.app](https://urfolio.vercel.app)
 
 - [Acknowledgements](#acknowledgements)
 
