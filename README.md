@@ -1,4 +1,5 @@
 My personal, now powered by Next.js. View the live demo: [urfolio.vercel.app](https://urfolio.vercel.app)
+-You can install dependences by using npn isntall 
 
 - [Acknowledgements](#acknowledgements)
 
